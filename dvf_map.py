@@ -14,8 +14,8 @@ from pyproj import Transformer
 # CONFIGURATION
 # ─────────────────────────────────────────────
 
-API_KEY    = "MY_API_KEY"          # à remplacer
-BASE_URL   = "https://api.taceconomics.io/"
+API_KEY    = "MY_API_KEY" # à remplacer
+BASE_URL   = "https://api.taceconomics.com/"
 DATASET_ID = "DVF"
 SYMBOL     = "RESIDENT_PRICESM"
  
